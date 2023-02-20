@@ -20,5 +20,5 @@ setup(
     long_description_content_type='text/markdown',  # Optional (see note above)
     url='https://github.com/netgroup/srv6-properties-generators',  # Optional
     packages=['.'],  # Required
-    install_requires=['setuptools']
+    install_requires=['setuptools>=41.2.0']
 )
